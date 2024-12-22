@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @francescomattiussi
-- 👀 I’m interested in litterature, digital archiving, UX/UI
-- 🌱 I’m currently learning .NET and ASP.NET
-- 💞️ I’m looking to collaborate on everything related to arts and culture
-- 📫 Feel free to reach to me via the links in my bio!
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I manage [Catia Drigo's photographic archive](https://www.archiviocatiadrigo.it/), check it out!
+- 👋 Ciao, sono @francescomattiussi
+- 👀 Mi interessano le digital humanities, l'archiviazione digitale e gli strumenti di catalogazione
+- 🌱 Attualmente sto imparando .NET e sto migliorando le mie conoscenze di JavaScript
+- 💞️ Sono disponibile a collaborare su tutto ciò che riguarda arte e cultura
+- 📫 Sentiti libero di contattarmi tramite i link nella mia bio!
+- 😄 Pronomi: he/him
+- ⚡ Fun fact: gestisco [l'archivio fotografico](https://www.archiviocatiadrigo.it/) di Catia Drigo, dagli un'occhiata!
 
 <!---
 francescomattiussi/francescomattiussi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
